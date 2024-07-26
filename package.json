@@ -1,0 +1,23 @@
+{
+  "name": "for_test_pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngryBaker/for_test_pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngryBaker/for_test_pkg/issues"
+  },
+  "homepage": "https://github.com/AngryBaker/for_test_pkg#readme",
+  "description": "",
+  "dependencies": {
+    "@angrybaker/ajs_platforms": "^1.0.0"
+  }
+}
